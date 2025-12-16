@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "name": "context7",
+      "url": "https://mcp.context7.com/mcp",
+      "transport": "http",
+      "headers": {
+        "CONTEXT7_API_KEY": "YOUR_API_KEY"
+      },
+      "id": "ctx7sk-7a89bffb-f2a1-4caf-a389-a6234897442e"
+    }
+  ]
+}
