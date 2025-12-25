@@ -1,0 +1,9 @@
+{
+  "enableAllProjectMcpServers": false,
+  "permissions": {
+    "allow": [
+      "Bash(powershell \"Get-Command claude*\")",
+      "Bash(claude mcp status)"
+    ]
+  }
+}

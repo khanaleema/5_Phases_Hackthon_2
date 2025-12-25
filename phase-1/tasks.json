@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "Study Python Advanced",
+      "description": "Complete chapter 5, 6 and do all exercises",
+      "is_completed": true
+    },
+    {
+      "id": 3,
+      "title": "Book",
+      "description": "Novel",
+      "is_completed": false
+    },
+    {
+      "id": 4,
+      "title": "Test Requirement",
+      "description": "Verifying all features work",
+      "is_completed": true
+    },
+    {
+      "id": 5,
+      "title": "Grocery Shopping",
+      "description": "Milk, Bread, Eggs, Cheese, Butter",
+      "is_completed": false
+    },
+    {
+      "id": 6,
+      "title": "Study Python",
+      "description": "Complete chapter 5 and do exercises",
+      "is_completed": false
+    },
+    {
+      "id": 7,
+      "title": "Exercise",
+      "description": "Go for morning run at 6 AM",
+      "is_completed": false
+    },
+    {
+      "id": 8,
+      "title": "Call Mom",
+      "description": "Wish her happy birthday",
+      "is_completed": false
+    },
+    {
+      "id": 9,
+      "title": "Project Work",
+      "description": "Finish todo app and write documentation",
+      "is_completed": false
+    }
+  ],
+  "next_id": 10
+}
